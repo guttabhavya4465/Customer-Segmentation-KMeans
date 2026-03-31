@@ -27,8 +27,6 @@ Features used:
 ## Output
 - Customer groups are formed based on spending behavior
 - Graph shows different clusters with centroids
-## Sample Visualization
-(Add your graph screenshot here later)
 ## How to Run
 1. Open the notebook in Google Colab
 2. Upload `Mall_Customers.csv`
