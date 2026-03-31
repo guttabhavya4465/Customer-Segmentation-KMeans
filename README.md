@@ -36,4 +36,4 @@ Features used:
 ## Conclusion
 K-Means helps businesses understand different types of customers, which can improve marketing strategies
 ## Author
-Your Name
+Gutta Bhavya Sree
